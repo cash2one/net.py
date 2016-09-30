@@ -1,4 +1,4 @@
-#! /usr/bin env python
+#! /usr/bin/env python
 
 #  printing the current time from the Internet time server
 
